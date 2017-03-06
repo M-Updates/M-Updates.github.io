@@ -1,5 +1,9 @@
 /* css goes hereeeee */
 
+@-ms-viewport{
+  width: device-width;
+}
+
 .rainbow {
    /* Chrome, Safari, Opera */
   -webkit-animation: rainbow 2s infinite; 
