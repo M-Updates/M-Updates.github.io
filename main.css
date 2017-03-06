@@ -2,7 +2,7 @@
 
 .rainbow {
    /* Chrome, Safari, Opera */
-  -webkit-animation: rainbow 1s infinite; 
+  -webkit-animation: rainbow 2s infinite; 
   
   /* Internet Explorer */
   -ms-animation: rainbow 1s infinite;
