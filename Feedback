@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+</head>
+<body>
+<form>
+  <input type="radio" name="Suggestion" value="male" checked> Suggestion<br>
+  <input type="radio" name="Comment" value="female"> Comment<br>
+  <input type="radio" name="Email" value="other"> Email
+  <input type="radio" name="other' value="other"> other
+</form>
+</body>
+</html>
