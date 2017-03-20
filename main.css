@@ -44,12 +44,3 @@ body{
   background-image: url(http://fjordstudio.dk/assets/img/bg/diamonds.png);
 }
 
-
-li {
-    float: left;
-    width: 100px;
-    line-height: 80px;
-    vertical-align: middle;
-    text-align: center;
-    margin: 0;
-}
